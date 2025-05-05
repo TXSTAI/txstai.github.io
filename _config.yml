@@ -1,39 +1,7 @@
 title: TXST Business AI Lab
-email: txstai@txstate.edu
-description: >
-  Exploring the intersection of AI and Business at Texas State University.
-baseurl: ""
-url: "https://txstai.github.io"
+description: Exploring the intersection of AI and Business at Texas State University.
+theme: jekyll-theme-cayman
+show_downloads: false
 
-theme: minima
-remote_theme: mmistakes/minimal-mistakes
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Curriculum"
-    url: /curriculum/
-  - title: "Projects"
-    url: /projects/
-  - title: "Student Work"
-    url: /students/
-  - title: "Contact"
-    url: /contact/
+# Optional - this enables clean URLs like /about instead of /about.html
+permalink: pretty
