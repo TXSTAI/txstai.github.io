@@ -1,11 +1,18 @@
 ---
 layout: default
-title: TXST Business AI Lab
+title: TXST AI & Business
 ---
 
-## Welcome to TXST Business AI Lab
+# Welcome to TXST Business AI Lab
 
-We explore how artificial intelligence can empower business innovation and education at Texas State University.
+We explore the intersection of Artificial Intelligence and Business through research, teaching, and innovation at McCoy College of Business.
 
-📌 **Mission:** To bridge AI theory with real-world business applications.  
-📁 **See:** [AI Projects](./projects) | [Curriculum](./curriculum) | [About Us](./about)
+---
+
+## Explore
+
+- [About Us](/about/)
+- [Curriculum](/curriculum/)
+- [Faculty Projects](/projects/)
+- [Student Spotlights](/students/)
+- [Contact](/contact/)
