@@ -1,12 +1,15 @@
 ---
 title: Projects
-nav_order: 2
+nav_order: 4
 ---
 
-# AI Projects at TXST
+# Featured AI Projects
 
-We proudly showcase work by our faculty, students, and industry partners.
+Explore work by our faculty, students, and collaborators:
 
-- **AI-powered Law Enforcement Evidence Processing**
-- **Predictive Analytics in Supply Chain Management**
-- **Agentic AI in Healthcare**
+## 🎯 Ongoing Highlights
+- **AI Application in Law Enforcement**: AI projects to fight crimes  
+- **Agentic AI in Healthcare**: Help patient navigate healthcare continuum
+- **CourseBot**: Conversational agent trained on buinsss course content  
+
+Have a project to showcase? [Submit it here](#)
