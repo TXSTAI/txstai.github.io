@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Curriculum
-nav_order: 3
+permalink: /curriculum/
 ---
 
 # AI for Business Curriculum
