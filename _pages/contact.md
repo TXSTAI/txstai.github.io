@@ -5,7 +5,7 @@ nav_order: 6
 
 # Contact Us
 
-For questions, collaborations, or media inquiries:
+For questions and collaborations:
 
 📧 Email: julong@txstate.edu  
 🌐 Website: [https://txstai.github.io](https://txstai.github.io)  
