@@ -1,3 +1,8 @@
-title: TXST AI Business Lab
-description: Exploring AI in Business at Texas State
-theme: minima
+title: TXST AI in Business Lab
+description: Showcasing AI and Business at Texas State
+theme: just-the-docs
+
+# Optional: Enable search (built-in)
+just_the_docs:
+  search_enabled: true
+  logo: "/assets/images/txstai-logo.png"  # Add your logo later if desired
