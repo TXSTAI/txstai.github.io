@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Student Work
-permalink: /curriculum/
+permalink: /students/
 ---
 
 # Student Work & Achievements
