@@ -1,8 +1,24 @@
-title: TXST AI in Business Lab
+title: TXST AI Business Lab
 description: Showcasing AI and Business at Texas State
 theme: just-the-docs
 
-# Optional: Enable search (built-in)
+# Enable built-in search functionality
 just_the_docs:
   search_enabled: true
-  logo: "/assets/images/txstai-logo.png"  # Add your logo later if desired
+  # Optional logo (you can upload this later)
+  # logo: "/assets/images/txstai-logo.png"
+
+# Support for page navigation order
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults so pages in _pages/ use layout and navigation
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      nav_order: 1
