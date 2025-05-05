@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Student Work
-nav_order: 5
+permalink: /curriculum/
 ---
 
 # Student Work & Achievements
