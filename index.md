@@ -13,3 +13,5 @@ This site highlights our mission to integrate Artificial Intelligence into busin
 - Build partnerships with industry.
 
 [See Our Projects](./projects.html)
+[See Our Team](./team.html)
+[Contact Us](./contact.html)
