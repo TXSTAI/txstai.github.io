@@ -1,17 +1,11 @@
 ---
-layout: home
-title: Welcome
-nav_order: 1
+layout: default
+title: TXST Business AI Lab
 ---
 
-# Welcome to TXST AI
+## Welcome to TXST Business AI Lab
 
-We explore the intersection of Artificial Intelligence and Business at Texas State University.  
-This site serves as a hub for our research, teaching, and outreach efforts.
+We explore how artificial intelligence can empower business innovation and education at Texas State University.
 
-- 💡 AI for Business Curriculum
-- 🧑‍🎓 Faculty Projects and Research
-- 🤝 Industry Collaboration
-- 📚 Case-Based Learning in AI
-
-[Browse Projects](./projects.md)
+📌 **Mission:** To bridge AI theory with real-world business applications.  
+📁 **See:** [AI Projects](./projects) | [Curriculum](./curriculum) | [About Us](./about)
