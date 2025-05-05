@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# Welcome to TXST AI
+# Welcome to TXST AI in Business Lab
 
 This site highlights our mission to integrate Artificial Intelligence into business education and practice at Texas State University.
 
