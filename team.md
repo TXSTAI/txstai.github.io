@@ -1,6 +1,6 @@
 ---
 layout: default
-title: team
+title: Team
 ---
 
 # Key Members
